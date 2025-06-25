@@ -1,8 +1,8 @@
 Yes Bank Stock Closing Price Prediction
-Overview
+Overview:
 This repository houses a machine learning project focused on predicting the closing prices of Yes Bank (NSE: YESBANK) stock. The goal is to develop and implement predictive models that can forecast future stock prices based on historical data, aiding in potential investment decisions and market analysis.
 
-Project Goals
+Project Goals:
 To build robust predictive models for Yes Bank stock closing prices.
 
 To evaluate the performance of various machine learning algorithms in time series forecasting.
@@ -11,7 +11,7 @@ To provide insights into factors influencing Yes Bank's stock movements.
 
 To create a reproducible and easy-to-use framework for stock price prediction.
 
-Features
+Features:
 Data Acquisition: Scripts for fetching historical Yes Bank stock data (e.g., from Yahoo Finance, NSE website).
 Data Preprocessing: Cleaning, normalization, feature engineering (e.g., moving averages, technical indicators).
 
